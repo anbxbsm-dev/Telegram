@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AppName">Telegram</string>
-    <string name="AppNameBeta">Telegram Beta</string>
+    <string name="AppName">bxnTele</string>
+    <string name="AppNameBeta">bxn Beta</string>
     <string name="LanguageName">English</string>
     <string name="English">English</string>
     <string name="LanguageNameInEnglish">English</string>
@@ -12,12 +12,12 @@
     <string name="StartText">Please confirm your country code and enter your phone number.</string>
     <string name="Country">Country</string>
     <string name="YourNumber">Your phone number</string>
-    <string name="PhoneNumber">Phone number</string>
-    <string name="ChooseCountry">Choose a country</string>
+    <string name="PhoneNumber">ur number vro🥀</string>
+    <string name="ChooseCountry">Choose your fkn country</string>
     <string name="WrongCountry">Invalid country code</string>
     <string name="AccountAlreadyLoggedIn">This account is already logged in from this app.</string>
     <string name="AccountSwitch">Switch</string>
-    <string name="SyncContacts">Sync Contacts</string>
+    <string name="SyncContacts">f ur Contacts</string>
     <string name="SyncContactsOn">Contacts from this device will be added to this account.</string>
     <string name="SyncContactsOff">Contacts from this device will not be added to this account.</string>
     <string name="SyncContactsInfoOn">Contacts from this device will be added to your account.</string>
